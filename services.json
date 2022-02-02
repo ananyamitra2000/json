@@ -1,0 +1,76 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "name": "Dental Bonding",
+            "price": 5000,
+            "category": "cosmetic",
+            "premiumprice": 4500,
+            "followup": "2 months"
+        },
+        {
+            "id": 2,
+            "name": "Dental Crowns",
+            "price": 6000,
+            "category": "maxillofacial",
+            "premiumprice": 5000,
+            "followup": "2 months"
+        },
+        {
+            "id": 3,
+            "name": "bridgework",
+            "price": 4000,
+            "category": "maxillofacialt",
+            "premiumprice": 3500,
+            "followup": "2 months"
+        },
+        {
+            "id": 4,
+            "name": "Cosmetic Fillings",
+            "price": 1500,
+            "category": "maxillofacial",
+            "premiumprice": 1400,
+            "followup": "4 months"
+        },
+        {
+            "id": 5,
+            "name": "Invisalign",
+            "price": 3800,
+            "category": "endodontic",
+            "premiumprice": 3000,
+            "followup": "2 months"
+        },
+        {
+            "id": 6,
+            "name": "Dental Veneers",
+            "price": 3400,
+            "category": "endodontic",
+            "premiumprice": 3000,
+            "followup": "4 months"
+        },
+        {
+            "id": 7,
+            "name": "Dentures",
+            "price": 9700,
+            "category": "endodontic",
+            "premiumprice": 7000,
+            "followup": "2 months"
+        },
+        {
+            "id": 8,
+            "name": "Root Canal Therapy",
+            "price": 4500,
+            "category": "maxillofacial",
+            "premiumprice": 2500,
+            "followup": "2 months"
+        },
+        {
+            "id": 9,
+            "name": "Dental Sealants",
+            "price": 9000,
+            "category": "rthodonic",
+            "premiumprice": 8000,
+            "followup": "4 months"
+        }
+    ]
+}
